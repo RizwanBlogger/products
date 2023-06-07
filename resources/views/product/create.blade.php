@@ -2,6 +2,7 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Product form</title>
 <style>
 * {
   box-sizing: border-box;
