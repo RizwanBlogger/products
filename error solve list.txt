@@ -1,5 +1,0 @@
-1) Contact us Validation
-2) index page Phone Number validation
-3) Subscribe validation.
-4) Faqs 
-5) display data price page
